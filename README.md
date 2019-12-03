@@ -48,8 +48,8 @@ Step 5: Login As Admin
   
      Admin Login's 
                    
-                      Email-  Fastback@gmail.com
-             Password-  **********
+                      Email-  admin@xenx.tk
+             Password-  xenexAb@
 
 
 
