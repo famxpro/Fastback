@@ -1,0 +1,24 @@
+{
+	"menu" : {
+		"icon"  : "fa fa-vk",
+		"color" : "#4b729c",
+		"link"  : "title link",
+		"title" : "Vk"
+	},
+
+	"submenu" : {
+		"vk/post" : "Post"
+	},
+
+	"account" : {
+		"add_account" : "vk/block_list_account"
+	},
+
+	"js" : {
+		"vk" : "vk/assets/js/vk.js"
+	},
+
+	"css" : {
+		"vk" : "vk/assets/css/vk.css"
+	}
+}

@@ -1,0 +1,54 @@
+<?php
+defined('BASEPATH') OR exit('No direct script access allowed');
+
+$lang['Channel'] = 'Channel';
+$lang['Anonymous'] = 'Anonymous';
+$lang['Enter your title'] = 'Enter your title';
+$lang['add_a_caption'] = 'Add a caption';
+$lang['Published on Mar 10, 2020'] = 'Published on Mar 10, 2020';
+$lang['Tags'] = 'Tags';
+$lang['This tag already exists'] = 'This tag already exists';
+$lang['Please enter the tag'] = 'Please enter the tag';
+$lang['Your tag must have at least %s characters'] = 'Your tag must have at least %s characters';
+$lang['Please select an video'] = 'Please select an video';
+$lang['Please select an account'] = 'Please select an account';
+$lang['This post does not exist'] = 'This post does not exist';
+$lang['Title is required'] = 'Title is required';
+$lang['Please select a category'] = 'Please select a category';
+$lang['Edit post successfully'] = 'Edit post successfully';
+$lang['This accounts not exists'] = 'This accounts not exists';
+$lang['add_schedule_successfully'] = 'Add schedule successfully';
+
+
+$lang['Category'] = 'Category';
+$lang['Film & Animation'] = 'Film & Animation';
+$lang['Autos & Vehicles'] = 'Autos & Vehicles';
+$lang['Music'] = 'Music';
+$lang['Pets & Animals'] = 'Pets & Animals';
+$lang['Sports'] = 'Sports';
+$lang['Short Movies'] = 'Short Movies';
+$lang['Travel & Events'] = 'Travel & Events';
+$lang['Gaming'] = 'Gaming';
+$lang['Videoblogging'] = 'Videoblogging';
+$lang['People & Blogs'] = 'People & Blogs';
+$lang['Comedy'] = 'Comedy';
+$lang['Entertainment'] = 'Entertainment';
+$lang['News & Politics'] = 'News & Politics';
+$lang['Howto & Style'] = 'Howto & Style';
+$lang['Education'] = 'Education';
+$lang['Science & Technology'] = 'Science & Technology';
+$lang['Nonprofits & Activism'] = 'Nonprofits & Activism';
+$lang['Movies'] = 'Movies';
+$lang['Anime/Animation'] = 'Anime/Animation';
+$lang['Action/Adventure'] = 'Action/Adventure';
+$lang['Classics'] = 'Classics';
+$lang['Comedy'] = 'Comedy';
+$lang['Documentary'] = 'Documentary';
+$lang['Drama'] = 'Drama';
+$lang['Family'] = 'Family';
+$lang['Foreign'] = 'Foreign';
+$lang['Sci-Fi/Fantasy'] = 'Sci-Fi/Fantasy';
+$lang['Thriller'] = 'Thriller';
+$lang['Shorts'] = 'Shorts';
+$lang['Shows'] = 'Shows';
+$lang['Trailers'] = 'Trailers';

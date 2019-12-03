@@ -1,0 +1,20 @@
+{
+	"menu" : {
+		"icon"  : "fa fa-youtube",
+		"color" : "#c4302b",
+		"link"  : "title link",
+		"title" : "Youtube"
+	},
+
+	"account" : {
+		"add_account" : "youtube/block_list_account"
+	},
+
+	"js" : {
+		"youtube" : "youtube/assets/js/youtube.js"
+	},
+
+	"css" : {
+		"youtube" : "youtube/assets/css/youtube.css"
+	}
+}

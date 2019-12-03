@@ -1,0 +1,143 @@
+/*Preview*/
+.preview-pinterest-photo{
+	position: relative;
+}
+
+.preview-pinterest-photo .preview-header{
+	padding: 15px;
+	height: 60px;
+}
+
+.preview-pinterest-photo .preview-header i{
+	font-size: 20px;
+}
+
+.preview-pinterest-photo .preview-header .pinterest-logo{
+	position: absolute;
+	text-align: center;
+	width: 100%;
+	left: 0;
+}
+
+.preview-pinterest-photo .preview-header .pinterest-logo i{
+    font-size: 30px;
+    color: #cd2029;
+}
+
+.preview-pinterest-photo .preview-content strong{
+	color: #6f6f6f;
+}
+
+.preview-pinterest-photo .preview-content .user-info{
+	padding: 10px 20px;
+	position: relative;
+	border-top: 1px solid #f5f5f5;
+}
+
+.preview-pinterest-photo .preview-content .user-info .img{
+	position: absolute;
+}
+
+.preview-pinterest-photo .preview-content .user-info img{
+	width: 30px;
+	margin-right: 5px;
+}
+
+.preview-pinterest-photo .preview-content .user-info .desc{
+	margin-left: 40px;
+}
+
+.preview-pinterest-photo .preview-content .user-info .desc .caption-info{
+    padding: 10px 0;
+    word-break: break-all;
+    margin-top: 4px;
+}
+
+.preview-pinterest-photo .preview-content .preview-image{
+    height: 360px;
+	background-size: cover;
+	background-position: center center;
+	background-color: #fafafa;
+	overflow: hidden;
+	position: relative;
+}
+
+.preview-pinterest-photo video{
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: auto;
+    height: 100%;
+    -webkit-transform: translate(-50%, -50%);
+    -moz-transform: translate(-50%, -50%);
+    -ms-transform: translate(-50%, -50%);
+    -o-transform: translate(-50%, -50%);
+    transform: translate(-50%, -50%);
+}
+
+.preview-pinterest-photo .preview-content .post-info,.preview-pinterest-photo .preview-content .caption-info{
+	padding: 10px 20px;
+    word-break: break-all;
+}
+
+.preview-pinterest-photo .preview-content .post-info img,.preview-pinterest-photo .preview-content .caption-info img{
+    width: 15px;
+    position: relative;
+    top: -2px;
+}
+
+
+.preview-pinterest-photo .preview-content .line-no-text{
+    margin-bottom: 3px;
+    height: 13px;
+    background: #fafafa;
+}
+
+.preview-pinterest-photo .preview-content .preview-comment{
+    position: relative;
+    border-top: 1px solid #eee;
+    padding: 15px 50px;
+    color: #999;
+    background: url(../img/heart-icon.png) no-repeat 20px;
+}
+
+.preview-pinterest-photo .preview-content .preview-comment .icon-3dot {
+    width: 23px;
+    height: 5px;
+    background: url(../img/icon-3dot.png) no-repeat;
+    position: absolute;
+    right: 20px;
+    top: 22px;
+}
+
+.bg-svg{
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  z-index: 0;
+}
+
+.list-board{
+	max-width: 450px;
+	width: 100%;
+	margin-right: auto;
+	margin-left: auto;
+	padding: 40px 0;
+	position: relative;
+	z-index: 1;
+}
+
+.list-board .title{
+	text-align: center;
+	font-size: 2.5em;
+	text-transform: uppercase;
+	font-weight: bold;
+	color: #2196F3;
+	margin-bottom: 10px;
+}
+
+.list-board .desc {
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 30px;
+}

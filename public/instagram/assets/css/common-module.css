@@ -1,0 +1,76 @@
+/*vtgram*/
+.gram-auto-modules .target-result{
+    border: 1px #f5f5f5 solid;
+    border-radius: 4px;
+    min-height: 100px;
+}
+
+.gram-auto-modules .target-result > a{
+    margin: 10px;
+}
+
+.gram-auto-modules .add-comment{
+    border: 1px #f5f5f5 solid;
+    border-radius: 4px;
+    min-height: 100px;
+}
+
+.gram-auto-modules .add-comment > a,.gram-auto-modules .add-comment .activity-add-comment, .gram-auto-modules .target-add-username-blacklist{
+    margin: 10px 5px 10px 10px;
+}
+
+.gram-auto-modules .activity-header {
+    margin-bottom: 0px;
+}
+
+.gram-auto-modules .activity-nav {
+    padding-bottom: 15px;
+    margin-bottom: 0px;
+}
+
+.gram-auto-modules .card-header {
+    padding: 10px 15px 20px;
+}
+
+.gram-auto-modules .activity-nav .activity-info-account img {
+    width: 70px;
+    padding-right: 5px;
+    border-radius: 220px;
+}
+
+.instagram-app .search-target-button-x{
+    display: inline-block;
+    padding: 0 4px;
+    font-size: 12px;
+    background: transparent;
+    border: none;
+}
+
+
+.instagram-app .search-target-button-x:hover{
+    color: #cbcbc9;
+}
+
+.card-module-option{
+    border-bottom: 1px solid #eee !important;
+}
+
+.account-list .title {
+    font-weight: 500;
+    padding-right: 5px;
+}
+.auto_module .card-header{
+    padding: 10px 15px;
+}
+
+.auto_module .gram-auto-modules .card-header{
+    padding: 10px 0 20px;
+}
+
+.auto_module .cd-select{
+    display: none;
+}
+
+.error{
+    color: red;
+}
